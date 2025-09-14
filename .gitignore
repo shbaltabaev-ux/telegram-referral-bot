@@ -1,28 +1,6 @@
-# Environment files
 .env
-.env.*
-
-# Databases
-*.db
-*.sqlite
-*.sqlite3
-
-# Byte-compiled / cache
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Virtual environments
 .venv/
-venv/
-env/
-
-# Editors/OS
-.vscode/
-.idea/
+__pycache__/
+*.pyc
+referrals.db*
 .DS_Store
-Thumbs.db
-
-# Logs
-*.log
-logs/
